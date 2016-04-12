@@ -7,7 +7,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	printf("Hello World! DR234");
+	printf("Hello World! Broj indeksa :)");
 	return 0;
 }
 
